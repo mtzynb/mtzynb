@@ -10,7 +10,7 @@
  <img src="https://badges.pufler.dev/repos/mtzynb"/>
  <img src="https://badges.pufler.dev/commits/monthly/mtzynb" />
  <br>
- <img src="https://komarev.com/ghpvc/?username=mtzynb&color=red" />
+ <img src="https://komarev.com/ghpvc/?username=mtzynb&color=blue" />
 </p>
 <p>
   <em>
