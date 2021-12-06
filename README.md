@@ -21,22 +21,9 @@
   </em>
 </p>
 
-<!--
-📫 How to reach me:
-<a href="https://www.linkedin.com/in/zeynab-mohammadtabar" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
- </a>
 
- <a href="https://www.instagram.com/mtzynb/" target="_blank">
-  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="45" height="45"/>
- </a>
- 
- <a href="https://mail.google.com/mail/u/0/?fs=1&to=zeynab.mohammadtabar@gmail.com&tf=cm" target="_blank">
-   <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest?cb=20201214214241" width="45" height="45"/>
- </a>
- -->
- 
- <h2 align="center">Tech Stack</h2>
+<h2 align="center">Tech Stack  </h2>
+
 <!-- programming langs i work-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
@@ -77,3 +64,18 @@
 
 
 <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> -->
+<!--
+📫 How to reach me:
+<a href="https://www.linkedin.com/in/zeynab-mohammadtabar" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
+ </a>
+
+ <a href="https://www.instagram.com/mtzynb/" target="_blank">
+  <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="45" height="45"/>
+ </a>
+ 
+ <a href="https://mail.google.com/mail/u/0/?fs=1&to=zeynab.mohammadtabar@gmail.com&tf=cm" target="_blank">
+   <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest?cb=20201214214241" width="45" height="45"/>
+ </a>
+ -->
+ 
