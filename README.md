@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <img align='right' src='https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966' width='200"'>
 
-<h2> Hi, I'm Zeynab! </h2>
-<img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+<h2> I'm Zeynab! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<!--<img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> -->
 <p align="center">
 
  <img src="https://badges.pufler.dev/years/mtzynb"/>
  <img src="https://badges.pufler.dev/repos/mtzynb"/>
  <img src="https://badges.pufler.dev/commits/monthly/mtzynb" />
 </p>
-![profile count](https://komarev.com/ghpvc/?username=miladzamir&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=mtzynb&color=red)&nbsp;
 
 <p>
   <em>
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- programming langs i work-->
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Tech Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="25px" height="25px"/>
