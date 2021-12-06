@@ -36,8 +36,8 @@
  </a>
  -->
 <h2 align="center">
+Tech Stack
 <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> -->
-  Tech Stack
 </h2>
 <!-- programming langs i work-->
 <p align="center">
