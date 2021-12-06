@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <img align='right' src='https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966' width='200"'>
 
 <h2> Hi, I'm Zeynab! </h2>
@@ -25,9 +24,8 @@ Here are some ideas to get you started:
  <img src="https://badges.pufler.dev/years/mtzynb"/>
  <img src="https://badges.pufler.dev/repos/mtzynb"/>
  <img src="https://badges.pufler.dev/commits/monthly/mtzynb" />
- <br>
- ![](https://komarev.com/ghpvc/?username=mtzynb&color=blue)
 </p>
+![profile count](https://komarev.com/ghpvc/?username=miladzamir&color=red)&nbsp;
 
 <p>
   <em>
@@ -62,7 +60,7 @@ Here are some ideas to get you started:
 📫 How to reach me:
 
 
-<a href="https://www.linkedin.com/in/mtzynb" target="_blank">
+<a href="https://www.linkedin.com/in/zeynab-mohammadtabar" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45" />
  </a>
 
@@ -76,3 +74,5 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+
