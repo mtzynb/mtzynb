@@ -41,7 +41,7 @@
 </h2>
 <!-- programming langs i work-->
 <p align="center">
-  Tech Stack
+  <h2> Tech Stack:  </h2>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="25px" height="25px"/>
