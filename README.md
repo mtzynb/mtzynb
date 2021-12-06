@@ -22,7 +22,7 @@
 </p>
 
 
-<h2 align="center">Tech Stack  </h2>
+<h2 align="center">    Tech Stack  </h2>
 
 <!-- programming langs i work-->
 <p align="center">
