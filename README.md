@@ -21,6 +21,7 @@
   </em>
 </p>
 
+<br>
 
 <h2 align="center">Tech Stack  </h2>
 <br>
@@ -41,8 +42,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25px" height="25px"/>
 
 </p>
-
-<h2 align="center">Tech Stack  </h2>
 
 <h2 align="center">My Github Stats  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
