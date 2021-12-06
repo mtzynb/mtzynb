@@ -23,9 +23,8 @@ Here are some ideas to get you started:
  <img src="https://badges.pufler.dev/years/mtzynb"/>
  <img src="https://badges.pufler.dev/repos/mtzynb"/>
  <img src="https://badges.pufler.dev/commits/monthly/mtzynb" />
+ <img src="https://komarev.com/ghpvc/?username=mtzynb&color=red" />
 </p>
-![profile count](https://komarev.com/ghpvc/?username=mtzynb&color=red)&nbsp;
-
 <p>
   <em>
     Back-end Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
