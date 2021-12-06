@@ -35,9 +35,8 @@
    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest?cb=20201214214241" width="45" height="45"/>
  </a>
  -->
-<h2 align="center">
-Tech Stack
-<!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> -->
+ <h2 align="center">Tech Stack
+  <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> -->
 </h2>
 <!-- programming langs i work-->
 <p align="center">
