@@ -14,7 +14,7 @@
 <p>
   <em>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-	Back-end Developer, Bioinformatics Student 
+	Bioinformatics Student 
 	<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </br>
     <!-- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> -->
@@ -35,9 +35,8 @@
    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest?cb=20201214214241" width="45" height="45"/>
  </a>
  -->
- <h2 align="center">Tech Stack
-  <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> -->
-</h2>
+ 
+ <h2 align="center">Tech Stack</h2>
 <!-- programming langs i work-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
@@ -77,3 +76,4 @@
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
 
+<!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> -->
