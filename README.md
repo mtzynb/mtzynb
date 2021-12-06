@@ -40,12 +40,11 @@
 <br />
 <br />
 
-<!-- programming langs i work-->
 <h2 align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">
+<!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"> -->
   Tech Stack
 </h2>
-
+<!-- programming langs i work-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="25px" height="25px"/>
@@ -66,10 +65,7 @@
 <br />
 
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  My Github Stats
-</h2>
+<h2 align="center">My Github Stats  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
  
 <br>
 
