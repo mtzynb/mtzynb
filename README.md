@@ -22,6 +22,7 @@
   </em>
 </p>
 
+<!--
 📫 How to reach me:
 
 
@@ -36,6 +37,7 @@
  <a href="https://mail.google.com/mail/u/0/?fs=1&to=zeynab.mohammadtabar@gmail.com&tf=cm" target="_blank">
    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest?cb=20201214214241" width="45" height="45"/>
  </a>
+ -->
 
 <br />
 <br />
